@@ -1,4 +1,4 @@
-<div align="center"><img src="https://github.com/Chngzz/Dynamic-Gesture-Recognition-Based-on-FMCW/img/lazchng.png" width="500"/></div>
+<div align="center"><img src="img/lazchng.png" width="500"/></div>
 
 **News**: ...
 
